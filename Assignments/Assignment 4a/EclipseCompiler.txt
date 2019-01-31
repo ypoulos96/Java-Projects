@@ -1,0 +1,1 @@
+31 Jul 2018 3:33:11 GMT: Log 'EclipseCompiler.txt' opened: 31 Jul 2018 3:33:11 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 4a\EclipseCompiler.txt

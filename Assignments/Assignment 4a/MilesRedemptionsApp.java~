@@ -1,0 +1,87 @@
+/***********************************************************
+*                                                          *
+*  CSCI 470/680      Assignment 4            Summer 2018   *
+*                                                          *
+*  Programmer: Yiannis Poulos                              *
+*              Shaniel Omar Rivas Verdejo                  *
+*                                                          *
+*  Date Due:   07/17/2018                                  *
+*                                                          *
+*  Purpose:    Checking for valid characters               *
+*                                                          *
+*                                                          *
+***********************************************************/
+
+import java.util.Scanner;
+import java.io.*;
+
+public class MilesRedemptionsApp
+{
+  public static void main(String [] args) throws IOException
+  {
+    int userMiles = 0;
+    int departMonth = 0;  
+    
+    char choice = 'y';
+    
+    String filename;
+    
+    Scanner keyScan = new Scanner(System.in);
+    
+    System.out.print("Please enter the name of the file: ");
+    filename = keyScan.next();
+   
+    File file = new File(filename);
+
+    Scanner fileScanner = new Scanner(file);
+   
+    System.out.println("----------------------------------------------------------------");
+    System.out.println("WELCOME TO THE JAVA AIRLINES FREQUENT FLYER MILES REDEMPTION APP");
+    System.out.println("----------------------------------------------------------------");
+    System.out.println();
+    
+    MilesRedeemer miles = new MilesRedeemer();
+    
+    System.out.println("List of destination cities your client can travel to: ");
+    System.out.println();   
+     
+    miles.readDestinations(fileScanner);
+    
+    for (String city : miles.getCityNames())
+    {
+      System.out.println(city);
+    }
+    
+    System.out.println();
+    
+    do
+    {
+      System.out.println("----------------------------------------------------------------");
+      System.out.print("Please enter your client's accumulated Frequent Flier Miles: ");
+      userMiles = keyScan.nextInt();
+    
+      System.out.print("Please enter your client's month of departure: ");
+      departMonth = keyScan.nextInt();
+    
+    //  System.out.println("Your client's Frequent Flier miles can be used to redeem  the following tickets: ");
+    
+    
+      System.out.println("Your client has " + userMiles + " miles.");
+      System.out.println("Your client is leaving in month " + departMonth + ".");
+      
+      System.out.println("----------------------------------------------------------------");
+      System.out.print("Do you want to continue (y/n)?: ");
+      choice = keyScan.next().charAt(0);
+    }
+    
+    while(choice == 'y');
+    
+    System.out.println();
+    System.out.println("----------------------------------------------------------------");
+    System.out.println("THANK YOU FOR USING THE JAVA AIRLINES FREQUENT FLYER MILES REDEMPTION APP");
+    System.out.println("----------------------------------------------------------------");
+    
+    keyScan.close();
+    
+  } 
+}

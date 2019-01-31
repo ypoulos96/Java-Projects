@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="DateDemo.java" package="" timestamp="02-Jul-2018 16:27:59">
+        <select from="317" to="317"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Date.java" package="" timestamp="02-Jul-2018 16:24:45">
+        <select from="317" to="317"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

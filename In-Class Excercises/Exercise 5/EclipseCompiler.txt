@@ -1,0 +1,53 @@
+26 Jul 2018 1:35:29 GMT: Log 'EclipseCompiler.txt' opened: 26 Jul 2018 1:35:29 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EclipseCompiler.txt
+31 Jan 2019 3:42:38 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:42:38 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EclipseCompiler.txt
+31 Jan 2019 3:42:45 GMT: diagnostics = javax.tools.DiagnosticCollector@dfef90
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bbfe91
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java]
+31 Jan 2019 3:42:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b8b30e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:42:45 GMT: Compiler call returned
+31 Jan 2019 3:44:08 GMT: diagnostics = javax.tools.DiagnosticCollector@1a3c709
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@782f00
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java]
+31 Jan 2019 3:44:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a1c69d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:44:08 GMT: Compiler call returned
+31 Jan 2019 3:44:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13b65
+31 Jan 2019 3:44:08 GMT:  Kind = WARNING
+31 Jan 2019 3:44:08 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 14 Msg = 'The serializable class EventsFrame does not declare a static final serialVersionUID field of type long'
+31 Jan 2019 3:44:34 GMT: diagnostics = javax.tools.DiagnosticCollector@dd7be0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16ecb81
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java]
+31 Jan 2019 3:44:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a5a3bd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:44:34 GMT: Compiler call returned
+31 Jan 2019 3:44:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1394330
+31 Jan 2019 3:44:34 GMT:  Kind = WARNING
+31 Jan 2019 3:44:34 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 14 Msg = 'The serializable class EventsFrame does not declare a static final serialVersionUID field of type long'
+31 Jan 2019 3:44:54 GMT: diagnostics = javax.tools.DiagnosticCollector@88ee76
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@811292
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java]
+31 Jan 2019 3:44:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f9397b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:44:54 GMT: Compiler call returned
+31 Jan 2019 3:44:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@886f3
+31 Jan 2019 3:44:54 GMT:  Kind = ERROR
+31 Jan 2019 3:44:54 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 21 Msg = 'Illegal modifier for the class EventsFrame; only public, abstract & final are permitted'
+31 Jan 2019 3:44:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf2d24
+31 Jan 2019 3:44:54 GMT:  Kind = WARNING
+31 Jan 2019 3:44:54 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 21 Msg = 'The serializable class EventsFrame does not declare a static final serialVersionUID field of type long'
+31 Jan 2019 3:45:08 GMT: diagnostics = javax.tools.DiagnosticCollector@bcc341
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f6a9f6
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java]
+31 Jan 2019 3:45:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@79e163' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:45:08 GMT: Compiler call returned
+31 Jan 2019 3:45:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b0ae90
+31 Jan 2019 3:45:08 GMT:  Kind = ERROR
+31 Jan 2019 3:45:08 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 14 Msg = 'Illegal modifier for the class EventsFrame; only public, abstract & final are permitted'
+31 Jan 2019 3:45:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17023ae
+31 Jan 2019 3:45:08 GMT:  Kind = WARNING
+31 Jan 2019 3:45:08 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 14 Msg = 'The serializable class EventsFrame does not declare a static final serialVersionUID field of type long'
+31 Jan 2019 3:45:22 GMT: diagnostics = javax.tools.DiagnosticCollector@c33cd1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b840fa
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\Events.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java]
+31 Jan 2019 3:45:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5eb71f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:45:22 GMT: Compiler call returned
+31 Jan 2019 3:45:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fe2531
+31 Jan 2019 3:45:22 GMT:  Kind = WARNING
+31 Jan 2019 3:45:22 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 5\EventsFrame.java LineNo = 29 ColNo = 14 Msg = 'The serializable class EventsFrame does not declare a static final serialVersionUID field of type long'

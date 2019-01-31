@@ -1,0 +1,37 @@
+10 Jul 2018 17:02:40 GMT: Log 'EclipseCompiler.txt' opened: 10 Jul 2018 17:02:40 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 4\EclipseCompiler.txt
+31 Jan 2019 3:36:47 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:36:47 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 4\EclipseCompiler.txt
+31 Jan 2019 3:38:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1a79d2d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16f0503
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 4\Sieve.java]
+31 Jan 2019 3:38:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cd65ed' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 4;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:38:48 GMT: Compiler call returned
+31 Jan 2019 3:38:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40768c
+31 Jan 2019 3:38:48 GMT:  Kind = WARNING
+31 Jan 2019 3:38:48 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 4\Sieve.java LineNo = 13 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+31 Jan 2019 23:19:37 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 23:19:37 GMT with name C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\EclipseCompiler.txt
+31 Jan 2019 23:30:02 GMT: diagnostics = javax.tools.DiagnosticCollector@123c455
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@40ef05
+fileObjects = [C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java]
+31 Jan 2019 23:30:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17e67ba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 23:30:02 GMT: Compiler call returned
+31 Jan 2019 23:30:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d12623
+31 Jan 2019 23:30:02 GMT:  Kind = ERROR
+31 Jan 2019 23:30:02 GMT: Name = C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java LineNo = 33 ColNo = 25 Msg = 'Syntax error, insert ";" to complete Statement'
+31 Jan 2019 23:30:09 GMT: diagnostics = javax.tools.DiagnosticCollector@1ffba83
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11b4479
+fileObjects = [C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java]
+31 Jan 2019 23:30:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@459ad6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 23:30:09 GMT: Compiler call returned
+31 Jan 2019 23:30:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74d6d2
+31 Jan 2019 23:30:09 GMT:  Kind = WARNING
+31 Jan 2019 23:30:09 GMT: Name = C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java LineNo = 13 ColNo = 8 Msg = 'The import java.util.Arrays is never used'
+31 Jan 2019 23:30:20 GMT: diagnostics = javax.tools.DiagnosticCollector@5f08de
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c6b6c5
+fileObjects = [C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java]
+31 Jan 2019 23:30:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4bc75c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 23:30:20 GMT: Compiler call returned
+31 Jan 2019 23:31:12 GMT: diagnostics = javax.tools.DiagnosticCollector@118fbca
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ac78e7
+fileObjects = [C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4\Sieve.java]
+31 Jan 2019 23:31:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@143d561' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop\Java Portfolio\In-Class Excercises\Exercise 4;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 23:31:12 GMT: Compiler call returned

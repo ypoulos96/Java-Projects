@@ -1,0 +1,15 @@
+import javax.swing.JFrame; 
+import java.io.IOException;
+
+public class MilesRedeemerApp
+{
+  public static void main(String[] args) throws IOException
+  {
+    MilesRedeemerFrame milesRedeemerFrame = new MilesRedeemerFrame();
+    
+    milesRedeemerFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    milesRedeemerFrame.setSize(700, 460); 
+    milesRedeemerFrame.setResizable(false);
+    milesRedeemerFrame.setVisible(true);  
+  }                                        
+}

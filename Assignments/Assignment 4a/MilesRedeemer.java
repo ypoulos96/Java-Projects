@@ -1,0 +1,108 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class MilesRedeemer
+{
+  private int remainingMiles = 0;
+  
+  ArrayList<String> cities = new ArrayList<String>(); 
+  ArrayList<Destination> destinations = new ArrayList<Destination>();
+  
+  /**********************************************************************************
+  *     getStartMonth(): returns the starting month of the "Fly Cheap" period       *      
+  **********************************************************************************/
+  public void readDestinations(Scanner fileScanner)
+  {      
+    while (fileScanner.hasNextLine())      //while the file has data
+    {       
+      String line = fileScanner.nextLine();     
+      String[] arrOfStrgs = line.split(";");       //separate data by ";"
+      String[] months = arrOfStrgs[4].split("-");  //separate months by "-"
+      
+      //create new Destination object
+      Destination destNames = new Destination(arrOfStrgs[0], arrOfStrgs[1], arrOfStrgs[2], arrOfStrgs[3], months[0], months[1]);
+      destinations.add(destNames);      //add objects to list of destinations
+    }   
+      
+    Collections.sort(destinations, new MileageComparator());   //sort array by normal miles
+  }
+  
+  /**********************************************************************************
+  *         getCityNames(): returns array of all available city names               *      
+  **********************************************************************************/
+  public String[] getCityNames() 
+  {
+    ArrayList<String> cityNamesList = new ArrayList<String>();  //create new ArrayList to store city names
+       
+    for (int i = 0; i < destinations.size(); i++)  //loop through destinations array
+    {         
+      cityNamesList.add(destinations.get(i).getCity());    //add name of city to new ArrayList         
+    }
+       
+    Collections.sort(cityNamesList);  //sort new ArrayList by city name
+    
+    String[] cityNames = cityNamesList.toArray(new String[cityNamesList.size()]); //convert ArrayList to Array
+      
+    return cityNames;
+  }
+
+  /**********************************************************************************
+  *      redeemMiles(): returns array of all destinations client can travel to      *      
+  **********************************************************************************/
+  public String[] redeemMiles(int miles, int month)
+  {
+    ArrayList<String> ticketList = new ArrayList<String>();    //create ArrayList to hold new tickets
+           
+    for (int i = 0; i < destinations.size(); i++)
+    {
+      //if clients departure monthis during "Fly Cheap" period...
+      if (month >= destinations.get(i).getStartMonth() && month <= destinations.get(i).getEndMonth())
+      {
+        if( miles - destinations.get(i).getCheapMiles() >= 0) //... and if client's total miles are greater than 0...
+        {            
+          miles = miles - destinations.get(i).getCheapMiles();  //subtract "Fly Cheap" miles from total miles
+         
+          ticketList.add(destinations.get(i).getCity()); //add destination to city array           
+        }
+      }
+        
+      else   //otherwaise
+      {
+        if( miles - destinations.get(i).getNormalMiles() >= 0)
+        {
+          miles = miles - destinations.get(i).getNormalMiles(); //subtract normal miles from total miles
+         
+          ticketList.add(destinations.get(i).getCity());        //add destination to city array  
+        }        
+      }
+    }
+      
+    for (int i = 0; i < destinations.size(); i++)
+    {
+      if (miles >= destinations.get(i).getUpgradeMiles())  //check if remaining miles are greater than upgrade miles 
+      {
+        miles = miles - destinations.get(i).getUpgradeMiles();  //subtract upgrade miles from total
+      }
+    }            
+      
+    String[] ticket = ticketList.toArray(new String[ticketList.size()]); //convert ArrayList to Array
+      
+    if (ticket.length == 0)  //if array is empty...
+    {
+      System.out.println("*** Your client has not accumulated enough Frequent Flyer Miles ***"); //tell the user
+    }
+      
+    remainingMiles = miles;      
+      
+    return ticket;     //return ticket array
+  }    
+  
+  /**********************************************************************************
+  *         getRemainingMiles(): returns number remaining miles a client has        *      
+  **********************************************************************************/
+  public int getRemainingMiles()
+  {
+    return remainingMiles;
+  }   
+}

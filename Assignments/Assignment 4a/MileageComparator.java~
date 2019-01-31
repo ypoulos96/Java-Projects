@@ -1,0 +1,7 @@
+public class MileageComparator implements Comparator<Destination> 
+{
+   public int compare(Destination d1, Destination d2) 
+   {
+      return (d2.getNormalMiles() - d1.getNormalMiles());
+   }
+}

@@ -1,0 +1,209 @@
+28 Jun 2018 18:26:24 GMT: Log 'EclipseCompiler.txt' opened: 28 Jun 2018 18:26:24 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\EclipseCompiler.txt
+28 Jun 2018 18:34:20 GMT: diagnostics = javax.tools.DiagnosticCollector@135232b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f6ffa7
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 18:34:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d9b38a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 18:34:20 GMT: Compiler call returned
+28 Jun 2018 18:34:45 GMT: diagnostics = javax.tools.DiagnosticCollector@1606694
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@322509
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 18:34:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7b4ab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 18:34:45 GMT: Compiler call returned
+28 Jun 2018 18:35:27 GMT: diagnostics = javax.tools.DiagnosticCollector@10af0dc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14d552
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java]
+28 Jun 2018 18:35:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3f4504' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 18:35:28 GMT: Compiler call returned
+28 Jun 2018 18:55:14 GMT: diagnostics = javax.tools.DiagnosticCollector@122dded
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21abd4
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 18:55:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@158e8a1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 18:55:14 GMT: Compiler call returned
+28 Jun 2018 19:09:20 GMT: diagnostics = javax.tools.DiagnosticCollector@fea661
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ef30fb
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:09:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19d1935' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:09:20 GMT: Compiler call returned
+28 Jun 2018 19:12:38 GMT: diagnostics = javax.tools.DiagnosticCollector@bb9027
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15a40d8
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:12:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@58814c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:12:38 GMT: Compiler call returned
+28 Jun 2018 19:17:22 GMT: diagnostics = javax.tools.DiagnosticCollector@c50ba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b91a65
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:17:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2ed554' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:17:22 GMT: Compiler call returned
+28 Jun 2018 19:17:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b24c14
+28 Jun 2018 19:17:22 GMT:  Kind = ERROR
+28 Jun 2018 19:17:22 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java LineNo = 53 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+28 Jun 2018 19:17:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10a850b
+28 Jun 2018 19:17:22 GMT:  Kind = ERROR
+28 Jun 2018 19:17:22 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java LineNo = 51 ColNo = 5 Msg = 'Syntax error, insert "while ( Expression ) ;" to complete DoStatement'
+28 Jun 2018 19:17:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1cfcfb3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5cebbd
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:17:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3321ae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:17:29 GMT: Compiler call returned
+28 Jun 2018 19:22:49 GMT: diagnostics = javax.tools.DiagnosticCollector@15a8237
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@457b70
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:22:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15fe822' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:22:49 GMT: Compiler call returned
+28 Jun 2018 19:24:03 GMT: diagnostics = javax.tools.DiagnosticCollector@d88bbd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ed2f1
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:24:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10c06b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:24:04 GMT: Compiler call returned
+28 Jun 2018 19:34:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1cce2da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17fd2ca
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:34:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18e779c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:34:51 GMT: Compiler call returned
+28 Jun 2018 19:35:17 GMT: diagnostics = javax.tools.DiagnosticCollector@11d7e21
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b45edd
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:35:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fb1bf7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:35:17 GMT: Compiler call returned
+28 Jun 2018 19:35:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1c90406
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ff6842
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:35:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1520f02' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:35:33 GMT: Compiler call returned
+28 Jun 2018 19:42:48 GMT: diagnostics = javax.tools.DiagnosticCollector@41ae70
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@187c008
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 19:42:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1323902' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 19:42:48 GMT: Compiler call returned
+28 Jun 2018 20:02:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1c3d8fc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1576e58
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:02:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e3d76a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:02:48 GMT: Compiler call returned
+28 Jun 2018 20:02:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183c154
+28 Jun 2018 20:02:48 GMT:  Kind = ERROR
+28 Jun 2018 20:02:48 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java LineNo = 65 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+28 Jun 2018 20:02:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@936c99
+28 Jun 2018 20:02:48 GMT:  Kind = ERROR
+28 Jun 2018 20:02:48 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java LineNo = 63 ColNo = 5 Msg = 'Syntax error, insert "while ( Expression ) ;" to complete BlockStatements'
+28 Jun 2018 20:03:17 GMT: diagnostics = javax.tools.DiagnosticCollector@638d4c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bf5378
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:03:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d76680' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:03:17 GMT: Compiler call returned
+28 Jun 2018 20:24:13 GMT: diagnostics = javax.tools.DiagnosticCollector@1183dc7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ea179f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:24:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@db2e6d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:24:13 GMT: Compiler call returned
+28 Jun 2018 20:25:32 GMT: diagnostics = javax.tools.DiagnosticCollector@128ce60
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@127210d
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:25:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c5cbc8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:25:32 GMT: Compiler call returned
+28 Jun 2018 20:34:49 GMT: diagnostics = javax.tools.DiagnosticCollector@c639b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18583c7
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:34:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15d87ad' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:34:49 GMT: Compiler call returned
+28 Jun 2018 20:35:46 GMT: diagnostics = javax.tools.DiagnosticCollector@f9550
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1056a48
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:35:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f44c6e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:35:47 GMT: Compiler call returned
+28 Jun 2018 20:37:49 GMT: diagnostics = javax.tools.DiagnosticCollector@109aa72
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6c5f9e
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:37:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@db7399' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:37:49 GMT: Compiler call returned
+28 Jun 2018 20:38:25 GMT: diagnostics = javax.tools.DiagnosticCollector@1de36c9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17e6ef9
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:38:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@124a573' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:38:25 GMT: Compiler call returned
+28 Jun 2018 20:42:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1199a7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@122bfcd
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:42:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16c4312' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:42:53 GMT: Compiler call returned
+28 Jun 2018 20:45:59 GMT: diagnostics = javax.tools.DiagnosticCollector@fbb41c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1725eb6
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:45:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e5f50d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:46:00 GMT: Compiler call returned
+28 Jun 2018 20:46:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1883cb3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e15d82
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:46:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@55d5d6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:46:27 GMT: Compiler call returned
+28 Jun 2018 20:46:59 GMT: diagnostics = javax.tools.DiagnosticCollector@1f97d9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7c75d6
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:46:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a2cd42' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:46:59 GMT: Compiler call returned
+28 Jun 2018 20:48:07 GMT: diagnostics = javax.tools.DiagnosticCollector@dd4532
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19837de
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:48:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@64f001' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:48:07 GMT: Compiler call returned
+28 Jun 2018 20:48:44 GMT: diagnostics = javax.tools.DiagnosticCollector@154372c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14c6781
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:48:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@111dde' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:48:44 GMT: Compiler call returned
+28 Jun 2018 20:57:21 GMT: diagnostics = javax.tools.DiagnosticCollector@4e225c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f7375f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 20:57:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f776d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 20:57:22 GMT: Compiler call returned
+28 Jun 2018 21:05:58 GMT: diagnostics = javax.tools.DiagnosticCollector@db1ce
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14bc47d
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:05:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@147d45b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:05:58 GMT: Compiler call returned
+28 Jun 2018 21:07:54 GMT: diagnostics = javax.tools.DiagnosticCollector@887d21
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e9d019
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:07:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14d631a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:07:54 GMT: Compiler call returned
+28 Jun 2018 21:08:31 GMT: diagnostics = javax.tools.DiagnosticCollector@1d911b1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18e3e85
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:08:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@437ceb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:08:31 GMT: Compiler call returned
+28 Jun 2018 21:10:14 GMT: diagnostics = javax.tools.DiagnosticCollector@5899b3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16fbb68
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:10:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b6643c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:10:14 GMT: Compiler call returned
+28 Jun 2018 21:10:57 GMT: diagnostics = javax.tools.DiagnosticCollector@c37cdb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1deded
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:10:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a851c5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:10:57 GMT: Compiler call returned
+28 Jun 2018 21:11:33 GMT: diagnostics = javax.tools.DiagnosticCollector@15a764c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6540ad
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:11:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@169b4df' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:11:33 GMT: Compiler call returned
+28 Jun 2018 21:31:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1c100a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1850be9
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:31:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15df884' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:31:27 GMT: Compiler call returned
+28 Jun 2018 21:39:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1e530d3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e83b83
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:39:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@815eb7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:39:30 GMT: Compiler call returned
+28 Jun 2018 21:44:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1b1fc5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@85c897
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:44:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@127e601' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:44:12 GMT: Compiler call returned
+28 Jun 2018 21:44:41 GMT: diagnostics = javax.tools.DiagnosticCollector@11f8157
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@189b401
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers2.java, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\CheckIdentifiers.java]
+28 Jun 2018 21:44:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@134f11b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+28 Jun 2018 21:44:41 GMT: Compiler call returned
+31 Jan 2019 3:15:38 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:15:38 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 2\EclipseCompiler.txt

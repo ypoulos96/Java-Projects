@@ -1,0 +1,65 @@
+5 Jul 2018 19:17:30 GMT: Log 'EclipseCompiler.txt' opened: 5 Jul 2018 19:17:30 GMT with name C:\Users\Yianni's PC\Desktop\EclipseCompiler.txt
+5 Jul 2018 19:21:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1cc4d29
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@198dd5d
+fileObjects = [C:\Users\Yianni's PC\Desktop\ParkCharges.java]
+5 Jul 2018 19:21:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1145ef3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 19:21:06 GMT: Compiler call returned
+5 Jul 2018 19:21:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@232e20
+5 Jul 2018 19:21:06 GMT:  Kind = WARNING
+5 Jul 2018 19:21:06 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 28 ColNo = 15 Msg = 'Resource leak: 'keyScan' is never closed'
+5 Jul 2018 19:21:46 GMT: diagnostics = javax.tools.DiagnosticCollector@9bba81
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6537d3
+fileObjects = [C:\Users\Yianni's PC\Desktop\ParkCharges.java]
+5 Jul 2018 19:21:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e126bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 19:21:46 GMT: Compiler call returned
+5 Jul 2018 19:21:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b2e9da
+5 Jul 2018 19:21:46 GMT:  Kind = WARNING
+5 Jul 2018 19:21:46 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 28 ColNo = 15 Msg = 'Resource leak: 'keyScan' is never closed'
+5 Jul 2018 19:23:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1988acb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fdc8a3
+fileObjects = [C:\Users\Yianni's PC\Desktop\ParkCharges.java]
+5 Jul 2018 19:23:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cced8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 19:23:39 GMT: Compiler call returned
+5 Jul 2018 19:23:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b1b356
+5 Jul 2018 19:23:39 GMT:  Kind = ERROR
+5 Jul 2018 19:23:39 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 27 ColNo = 12 Msg = 'The local variable askInput may not have been initialized'
+5 Jul 2018 19:23:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176111c
+5 Jul 2018 19:23:39 GMT:  Kind = ERROR
+5 Jul 2018 19:23:39 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 27 ColNo = 33 Msg = 'The local variable askInput may not have been initialized'
+5 Jul 2018 19:23:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3597
+5 Jul 2018 19:23:39 GMT:  Kind = WARNING
+5 Jul 2018 19:23:39 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 29 ColNo = 15 Msg = 'Resource leak: 'keyScan' is never closed'
+5 Jul 2018 19:23:55 GMT: diagnostics = javax.tools.DiagnosticCollector@ff831c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f4a1c6
+fileObjects = [C:\Users\Yianni's PC\Desktop\ParkCharges.java]
+5 Jul 2018 19:23:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6f69e8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 19:23:55 GMT: Compiler call returned
+5 Jul 2018 19:23:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@579ac8
+5 Jul 2018 19:23:55 GMT:  Kind = WARNING
+5 Jul 2018 19:23:55 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 29 ColNo = 15 Msg = 'Resource leak: 'keyScan' is never closed'
+5 Jul 2018 21:05:05 GMT: diagnostics = javax.tools.DiagnosticCollector@118521d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18de2
+fileObjects = [C:\Users\Yianni's PC\Desktop\ParkCharges.java]
+5 Jul 2018 21:05:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@368e1f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Desktop;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 21:05:06 GMT: Compiler call returned
+5 Jul 2018 21:05:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d672a4
+5 Jul 2018 21:05:06 GMT:  Kind = WARNING
+5 Jul 2018 21:05:06 GMT: Name = C:\Users\Yianni's PC\Desktop\ParkCharges.java LineNo = 28 ColNo = 15 Msg = 'Resource leak: 'keyScan' is never closed'
+5 Jul 2018 22:45:58 GMT: Log 'EclipseCompiler.txt' opened: 5 Jul 2018 22:45:58 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\EclipseCompiler.txt
+5 Jul 2018 22:49:20 GMT: diagnostics = javax.tools.DiagnosticCollector@27c859
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b0a036
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\ParkCharges.java]
+5 Jul 2018 22:49:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c1c232' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 22:49:21 GMT: Compiler call returned
+5 Jul 2018 23:28:30 GMT: diagnostics = javax.tools.DiagnosticCollector@82288
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1259624
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\ParkCharges.java]
+5 Jul 2018 23:28:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13ccecb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+5 Jul 2018 23:28:30 GMT: Compiler call returned
+31 Jan 2019 3:08:50 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:08:50 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\EclipseCompiler.txt
+31 Jan 2019 3:10:49 GMT: diagnostics = javax.tools.DiagnosticCollector@1c16586
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a667b1
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\Square.java]
+31 Jan 2019 3:10:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17158b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:10:50 GMT: Compiler call returned
+31 Jan 2019 3:13:52 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:13:52 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 3\EclipseCompiler.txt

@@ -1,0 +1,129 @@
+3 Jul 2018 20:26:43 GMT: Log 'EclipseCompiler.txt' opened: 3 Jul 2018 20:26:43 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\EclipseCompiler.txt
+3 Jul 2018 20:35:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1496d99
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f96db7
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoneyDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoney.java]
+3 Jul 2018 20:35:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fd962c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+3 Jul 2018 20:35:47 GMT: Compiler call returned
+3 Jul 2018 20:43:17 GMT: diagnostics = javax.tools.DiagnosticCollector@f6b5ba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1da6f03
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoneyDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoney.java]
+3 Jul 2018 20:43:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13b7102' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+3 Jul 2018 20:43:17 GMT: Compiler call returned
+3 Jul 2018 20:47:04 GMT: Log 'EclipseCompiler.txt' opened: 3 Jul 2018 20:47:04 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\EclipseCompiler.txt
+31 Jan 2019 21:29:29 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 21:29:29 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\EclipseCompiler.txt
+31 Jan 2019 21:31:31 GMT: diagnostics = javax.tools.DiagnosticCollector@4896c1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@193e67c
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoney.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoneyDemo.java]
+31 Jan 2019 21:31:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@368f74' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:31:31 GMT: Compiler call returned
+31 Jan 2019 21:34:27 GMT: diagnostics = javax.tools.DiagnosticCollector@b31445
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@112fd77
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoney.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1\USMoneyDemo.java]
+31 Jan 2019 21:34:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10ac347' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:34:27 GMT: Compiler call returned
+31 Jan 2019 21:35:39 GMT: diagnostics = javax.tools.DiagnosticCollector@71cf7e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a360ec
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 21:35:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6adcad' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:35:39 GMT: Compiler call returned
+31 Jan 2019 21:40:43 GMT: diagnostics = javax.tools.DiagnosticCollector@1552d82
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5a67fc
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 21:40:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1efe0f3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:40:43 GMT: Compiler call returned
+31 Jan 2019 21:41:20 GMT: diagnostics = javax.tools.DiagnosticCollector@16f75b2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@160ebce
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 21:41:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e1ffcc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:41:20 GMT: Compiler call returned
+31 Jan 2019 21:59:41 GMT: diagnostics = javax.tools.DiagnosticCollector@d01c54
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c96310
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 21:59:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1791eee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 21:59:41 GMT: Compiler call returned
+31 Jan 2019 22:00:35 GMT: diagnostics = javax.tools.DiagnosticCollector@6e82be
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@846580
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:00:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1653a50' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:00:36 GMT: Compiler call returned
+31 Jan 2019 22:00:55 GMT: diagnostics = javax.tools.DiagnosticCollector@9c93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@75ab
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:00:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d0528b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:00:56 GMT: Compiler call returned
+31 Jan 2019 22:03:38 GMT: diagnostics = javax.tools.DiagnosticCollector@1f1729c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f647e1
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:03:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b75527' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:03:38 GMT: Compiler call returned
+31 Jan 2019 22:04:11 GMT: diagnostics = javax.tools.DiagnosticCollector@69df4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12ab115
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:04:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16cc5c8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:04:11 GMT: Compiler call returned
+31 Jan 2019 22:06:00 GMT: diagnostics = javax.tools.DiagnosticCollector@a38e52
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@da21bd
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:06:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d782e2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:06:00 GMT: Compiler call returned
+31 Jan 2019 22:06:05 GMT: diagnostics = javax.tools.DiagnosticCollector@ac1976
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@157c074
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:06:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@37ca67' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:06:05 GMT: Compiler call returned
+31 Jan 2019 22:06:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1bc2812
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1de2dc0
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:06:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@683876' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:06:35 GMT: Compiler call returned
+31 Jan 2019 22:21:56 GMT: diagnostics = javax.tools.DiagnosticCollector@c61fa5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b4a436
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:21:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@694654' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:21:56 GMT: Compiler call returned
+31 Jan 2019 22:21:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f55f17
+31 Jan 2019 22:21:56 GMT:  Kind = ERROR
+31 Jan 2019 22:21:56 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java LineNo = 18 ColNo = 10 Msg = 'bool cannot be resolved to a type'
+31 Jan 2019 22:21:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b721b7
+31 Jan 2019 22:21:56 GMT:  Kind = ERROR
+31 Jan 2019 22:21:56 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java LineNo = 73 ColNo = 11 Msg = 'The method isLeapYear(int) from the type Date refers to the missing type bool'
+31 Jan 2019 22:22:34 GMT: diagnostics = javax.tools.DiagnosticCollector@d794bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16bcb38
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:22:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e5ce65' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:22:34 GMT: Compiler call returned
+31 Jan 2019 22:28:12 GMT: diagnostics = javax.tools.DiagnosticCollector@5a4f93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bc07c2
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:28:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1587e54' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:28:12 GMT: Compiler call returned
+31 Jan 2019 22:29:29 GMT: diagnostics = javax.tools.DiagnosticCollector@14b5d46
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ac3da3
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:29:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10ccd71' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:29:29 GMT: Compiler call returned
+31 Jan 2019 22:32:48 GMT: diagnostics = javax.tools.DiagnosticCollector@e04d3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@25e84f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:32:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d37b07' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:32:48 GMT: Compiler call returned
+31 Jan 2019 22:37:46 GMT: diagnostics = javax.tools.DiagnosticCollector@17dd867
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@843489
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:37:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ed3678' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:37:46 GMT: Compiler call returned
+31 Jan 2019 22:50:31 GMT: diagnostics = javax.tools.DiagnosticCollector@1898f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9dd662
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 22:50:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@87081c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:50:31 GMT: Compiler call returned
+31 Jan 2019 22:56:15 GMT: diagnostics = javax.tools.DiagnosticCollector@10437b9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bdf4b2
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java]
+31 Jan 2019 22:56:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a4a6cc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 22:56:15 GMT: Compiler call returned
+31 Jan 2019 23:08:46 GMT: diagnostics = javax.tools.DiagnosticCollector@14cca1c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7662cc
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\DateDemo.java, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2\Date.java]
+31 Jan 2019 23:08:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@119b89b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\Assignment 3\Part 2;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 23:08:46 GMT: Compiler call returned

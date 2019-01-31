@@ -1,0 +1,267 @@
+26 Jun 2018 20:00:43 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 20:00:43 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+26 Jun 2018 20:03:05 GMT: diagnostics = javax.tools.DiagnosticCollector@c18f82
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fb9034
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:03:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65908b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:03:05 GMT: Compiler call returned
+26 Jun 2018 20:03:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc8387
+26 Jun 2018 20:03:05 GMT:  Kind = WARNING
+26 Jun 2018 20:03:05 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java LineNo = 29 ColNo = 13 Msg = 'Resource leak: 'keyScan' is never closed'
+26 Jun 2018 20:03:26 GMT: diagnostics = javax.tools.DiagnosticCollector@ba2d46
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1893d7f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:03:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f3b468' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:03:26 GMT: Compiler call returned
+26 Jun 2018 20:05:38 GMT: diagnostics = javax.tools.DiagnosticCollector@707e8d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ba3df0
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:05:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ca9d6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:05:38 GMT: Compiler call returned
+26 Jun 2018 20:07:08 GMT: diagnostics = javax.tools.DiagnosticCollector@5feac2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d5e8da
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:07:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@337b65' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:07:08 GMT: Compiler call returned
+26 Jun 2018 20:10:31 GMT: diagnostics = javax.tools.DiagnosticCollector@fe2e69
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ddd49
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:10:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f44e66' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:10:31 GMT: Compiler call returned
+26 Jun 2018 20:10:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f07e17
+26 Jun 2018 20:10:31 GMT:  Kind = ERROR
+26 Jun 2018 20:10:31 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java LineNo = 48 ColNo = 83 Msg = 'Syntax error, insert ")" to complete Expression'
+26 Jun 2018 20:10:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@509391
+26 Jun 2018 20:10:31 GMT:  Kind = ERROR
+26 Jun 2018 20:10:31 GMT: Name = C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java LineNo = 50 ColNo = 73 Msg = 'Syntax error, insert ")" to complete Expression'
+26 Jun 2018 20:10:43 GMT: diagnostics = javax.tools.DiagnosticCollector@310935
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1301659
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:10:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4f016e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:10:43 GMT: Compiler call returned
+26 Jun 2018 20:11:14 GMT: diagnostics = javax.tools.DiagnosticCollector@d43fcb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c72cbb
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:11:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@85e5ef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:11:14 GMT: Compiler call returned
+26 Jun 2018 20:12:12 GMT: diagnostics = javax.tools.DiagnosticCollector@5b3ab1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ea940
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:12:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@853bbf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:12:12 GMT: Compiler call returned
+26 Jun 2018 20:20:18 GMT: diagnostics = javax.tools.DiagnosticCollector@166b24d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@696aba
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:20:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9d6984' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:20:18 GMT: Compiler call returned
+26 Jun 2018 20:21:55 GMT: diagnostics = javax.tools.DiagnosticCollector@9eb5e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1da86d4
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:21:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a87b21' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:21:55 GMT: Compiler call returned
+26 Jun 2018 20:22:16 GMT: diagnostics = javax.tools.DiagnosticCollector@51192d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e5a6ec
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:22:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c645ef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:22:16 GMT: Compiler call returned
+26 Jun 2018 20:24:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1cc4819
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@90f54e
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:24:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1634088' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:24:57 GMT: Compiler call returned
+26 Jun 2018 20:25:42 GMT: diagnostics = javax.tools.DiagnosticCollector@192de7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11cd528
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:25:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ad2798' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:25:42 GMT: Compiler call returned
+26 Jun 2018 20:26:13 GMT: diagnostics = javax.tools.DiagnosticCollector@180d8e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b0019
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:26:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@145ced1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:26:13 GMT: Compiler call returned
+26 Jun 2018 20:27:12 GMT: diagnostics = javax.tools.DiagnosticCollector@8bf632
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e9c1c8
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:27:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e06b3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:27:12 GMT: Compiler call returned
+26 Jun 2018 20:27:21 GMT: diagnostics = javax.tools.DiagnosticCollector@1840d89
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ca5ba
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:27:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@110c912' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:27:21 GMT: Compiler call returned
+26 Jun 2018 20:30:56 GMT: diagnostics = javax.tools.DiagnosticCollector@121826c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1993e27
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:30:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ee8c48' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:30:56 GMT: Compiler call returned
+26 Jun 2018 20:31:50 GMT: diagnostics = javax.tools.DiagnosticCollector@1da1610
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b3197c
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:31:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b05c34' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:31:51 GMT: Compiler call returned
+26 Jun 2018 20:32:50 GMT: diagnostics = javax.tools.DiagnosticCollector@6d522
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@110bb1e
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:32:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bf8822' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:32:50 GMT: Compiler call returned
+26 Jun 2018 20:37:28 GMT: diagnostics = javax.tools.DiagnosticCollector@b1f420
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@52e913
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:37:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3d11d6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:37:28 GMT: Compiler call returned
+26 Jun 2018 20:42:39 GMT: diagnostics = javax.tools.DiagnosticCollector@18a1574
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@88810e
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:42:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9b8acc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:42:39 GMT: Compiler call returned
+26 Jun 2018 20:50:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1fb3e8b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b5c46
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:50:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@377da5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:50:52 GMT: Compiler call returned
+26 Jun 2018 20:51:52 GMT: diagnostics = javax.tools.DiagnosticCollector@19ca435
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17ce65
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:51:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@94530a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:51:52 GMT: Compiler call returned
+26 Jun 2018 20:53:43 GMT: diagnostics = javax.tools.DiagnosticCollector@9861ef
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f4f822
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:53:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18009' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:53:43 GMT: Compiler call returned
+26 Jun 2018 20:54:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1e55278
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@189a158
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:54:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@170ad04' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:54:06 GMT: Compiler call returned
+26 Jun 2018 20:55:34 GMT: diagnostics = javax.tools.DiagnosticCollector@792f33
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@161749c
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:55:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ce7b06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:55:34 GMT: Compiler call returned
+26 Jun 2018 20:57:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1055ebb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10cc0f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 20:57:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e750ea' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 20:57:24 GMT: Compiler call returned
+26 Jun 2018 21:02:31 GMT: diagnostics = javax.tools.DiagnosticCollector@ece208
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6865ac
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:02:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f4fd3d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:02:32 GMT: Compiler call returned
+26 Jun 2018 21:04:21 GMT: diagnostics = javax.tools.DiagnosticCollector@96d411
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@861c87
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:04:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a0aabf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:04:21 GMT: Compiler call returned
+26 Jun 2018 21:05:47 GMT: diagnostics = javax.tools.DiagnosticCollector@c74428
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@188dac3
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:05:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9f1cb8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:05:47 GMT: Compiler call returned
+26 Jun 2018 21:08:11 GMT: diagnostics = javax.tools.DiagnosticCollector@1d06c7b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71ba58
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:08:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a29f68' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:08:11 GMT: Compiler call returned
+26 Jun 2018 21:08:25 GMT: diagnostics = javax.tools.DiagnosticCollector@8d9597
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13a2105
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:08:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bd6670' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:08:25 GMT: Compiler call returned
+26 Jun 2018 21:09:09 GMT: diagnostics = javax.tools.DiagnosticCollector@d714f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1834b9a
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:09:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@127efc1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:09:09 GMT: Compiler call returned
+26 Jun 2018 21:22:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1bb9db8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ab8819
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:22:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1495f9f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:22:57 GMT: Compiler call returned
+26 Jun 2018 21:23:16 GMT: diagnostics = javax.tools.DiagnosticCollector@cc7a89
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@144d142
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:23:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@93e70f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:23:17 GMT: Compiler call returned
+26 Jun 2018 21:24:20 GMT: diagnostics = javax.tools.DiagnosticCollector@96175e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17da5f
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:24:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cfdc8b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:24:20 GMT: Compiler call returned
+26 Jun 2018 21:26:19 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 21:26:19 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+26 Jun 2018 21:26:34 GMT: diagnostics = javax.tools.DiagnosticCollector@3c9193
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17ff58c
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:26:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15dded4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:26:34 GMT: Compiler call returned
+26 Jun 2018 21:29:28 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 21:29:28 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+26 Jun 2018 21:29:44 GMT: diagnostics = javax.tools.DiagnosticCollector@1f55563
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@178a894
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\GrowthCalculator.java]
+26 Jun 2018 21:29:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@99f749' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:29:44 GMT: Compiler call returned
+26 Jun 2018 21:38:38 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 21:38:38 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+26 Jun 2018 21:38:38 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 21:38:38 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+26 Jun 2018 21:40:27 GMT: diagnostics = javax.tools.DiagnosticCollector@aced75
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1703cf9
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+26 Jun 2018 21:40:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f05f9f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 21:40:27 GMT: Compiler call returned
+31 Jan 2019 3:18:24 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:18:24 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+31 Jan 2019 3:21:19 GMT: diagnostics = javax.tools.DiagnosticCollector@afa8ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fbef6c
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:21:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@199461' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:21:19 GMT: Compiler call returned
+31 Jan 2019 3:22:06 GMT: diagnostics = javax.tools.DiagnosticCollector@2ea496
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4a62f2
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:22:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d7bdba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:22:06 GMT: Compiler call returned
+31 Jan 2019 3:22:29 GMT: diagnostics = javax.tools.DiagnosticCollector@1a92015
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dddb66
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:22:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c2ded2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:22:29 GMT: Compiler call returned
+31 Jan 2019 3:25:21 GMT: diagnostics = javax.tools.DiagnosticCollector@1261d7b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@452127
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:25:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13d44cb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:25:22 GMT: Compiler call returned
+31 Jan 2019 3:26:07 GMT: diagnostics = javax.tools.DiagnosticCollector@3f94ff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cda6c5
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:26:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fd529f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:26:07 GMT: Compiler call returned
+31 Jan 2019 3:26:49 GMT: diagnostics = javax.tools.DiagnosticCollector@50e818
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14a9cda
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:26:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ceb9a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:26:49 GMT: Compiler call returned
+31 Jan 2019 3:27:19 GMT: diagnostics = javax.tools.DiagnosticCollector@126cb07
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16c776d
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\WorldPoulation.java]
+31 Jan 2019 3:27:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cca5f4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:27:19 GMT: Compiler call returned
+31 Jan 2019 3:28:28 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:28:28 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+31 Jan 2019 3:29:16 GMT: diagnostics = javax.tools.DiagnosticCollector@d72dc3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1aa4b6
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\GrowthCalculator.java]
+31 Jan 2019 3:29:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@183fe0e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:29:16 GMT: Compiler call returned
+31 Jan 2019 3:30:16 GMT: diagnostics = javax.tools.DiagnosticCollector@a24d41
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6bc576
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\GrowthCalculator.java]
+31 Jan 2019 3:30:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@47ffb6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:30:16 GMT: Compiler call returned
+31 Jan 2019 3:31:33 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 3:31:33 GMT with name C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\EclipseCompiler.txt
+31 Jan 2019 3:31:57 GMT: diagnostics = javax.tools.DiagnosticCollector@119d13b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1aa2566
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+31 Jan 2019 3:31:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f9ea1b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:31:58 GMT: Compiler call returned
+31 Jan 2019 3:36:11 GMT: diagnostics = javax.tools.DiagnosticCollector@550a70
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18eab10
+fileObjects = [C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1\carPool.java]
+31 Jan 2019 3:36:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4f7624' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Yianni's PC\Documents\CSCI 470\In-Class Excercises\Exercise 1;C:\Users\Yianni's PC\Downloads\drjava-beta-20160913-225446.exe]
+31 Jan 2019 3:36:11 GMT: Compiler call returned
